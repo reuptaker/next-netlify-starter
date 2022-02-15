@@ -9,7 +9,7 @@ export default function Home() {
         <title>Next.js Starter!</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
-
+<h1>This is a test.</h1>
       <main>
         <Header title="Welcome to my app!" />
         <p className="description">
