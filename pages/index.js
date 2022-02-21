@@ -10,7 +10,7 @@ export default function Home() {
     <title>ɹǝʞɐʇdnǝɹ</title>
   </head>
   <main>
-    <img src="images/header-compressed.jpg" alt="Header"></img>
+    <img src="https://github.com/reuptaker/next-netlify-starter/blob/47929318ab4753e31ab7323c71025faadc572694/pages/images/header-compressed.jpg" alt="Header"></img>
   </main>
 
       <Footer />
