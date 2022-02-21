@@ -10,7 +10,7 @@ export default function Home() {
     <title>ɹǝʞɐʇdnǝɹ</title>
   </head>
   <main>
-    <img src="images/header-compressed.jpg" alt="Header">
+    <img src="images/header-compressed.jpg" alt="Header"></img>
   </main>
 
       <Footer />
