@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div className="container">
         <head>
-    <meta charset="utf-8">
+    <meta charset="utf-8"></meta>
     <title>ɹǝʞɐʇdnǝɹ</title>
   </head>
   <main>
